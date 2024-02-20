@@ -1,5 +1,6 @@
 function Header() {
-    return (
+    
+    return(
         <header>
             <h1>My Website</h1>
             <nav>
@@ -10,7 +11,7 @@ function Header() {
                 </ul>
             </nav>
         </header>
-    )
+    );
 }
 
-export default Header()
+export default Header
